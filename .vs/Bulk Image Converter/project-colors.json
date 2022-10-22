@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4ea5d4d6-f1e9-4578-8d90-62681a8404bd": {
+      "ProjectGuid": "4ea5d4d6-f1e9-4578-8d90-62681a8404bd",
+      "DisplayName": "Bulk Image Converter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
